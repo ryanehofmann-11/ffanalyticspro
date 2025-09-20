@@ -163,13 +163,14 @@
 - **API Gateway** - Centralized access management
 - **Monitoring** - Comprehensive system observability
 
-## 📞 Contact Information
+## 📞 425-314-8551
 
 **Ryan Hofmann**
 - **Project:** Fantasy Football Analytics Pro
-- **GitHub:** [Repository Link]
-- **LinkedIn:** [Professional Profile]
-- **Email:** [Contact Information]
+- **GitHub:** [https://github.com/ryanehofmann-11]
+- **LinkedIn:** [[Professional Profile](https://www.linkedin.com/in/ryan-hofmann/)]
+
+- **Email:** [ryanehofmann@gmail.com]
 
 ---
 
