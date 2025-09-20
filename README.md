@@ -214,8 +214,8 @@ This project demonstrates proficiency in:
 
 **Ryan Hofmann**
 - GitHub: [@ryanehofmann-11](https://github.com/ryanehofmann-11)
-- LinkedIn: [Your LinkedIn Profile]
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/ryan-hofmann/]
+- Email: ryanehofmann@gmail.com
 
 ---
 
